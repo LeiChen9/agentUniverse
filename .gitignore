@@ -168,3 +168,6 @@ cython_debug/
 
 *.pyc
 __pycache__/
+
+# Local files
+*rb_secret.yaml
