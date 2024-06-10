@@ -170,4 +170,4 @@ cython_debug/
 __pycache__/
 
 # Local files
-*rb_secret.yaml
+*rb_secret*
